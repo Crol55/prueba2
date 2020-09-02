@@ -5,12 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/index.js",
-    "build": "echo 'Build script executed'"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://AYD2-Grupo3@dev.azure.com/AYD2-Grupo3/Proyecto_clase/_git/Proyecto_clase"
+    "start": "node ./src/index.js"
   },
   "author": "Grupo 3",
   "license": "ISC",
